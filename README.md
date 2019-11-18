@@ -19,6 +19,6 @@
 利用if (i % 2 == 0) 判断输出标点符号，下标为0或者2的输入逗号，其他输出句号。利用private static void countString方法计算参数出现的次数，System.out.println("出现的次数为"+count+"次")打印结果。
 利用try catch处理异常。
 五、运行结果
-
+![image](https://github.com/GuiltyInori/sfs/blob/master/result.png)
 六、编程体会
 通过这次实验我基本掌握了字符串String及其方法的使用，此外在对异常处理时，通过网上资料加深了我对利用try catch处理异常的理解。
